@@ -75,6 +75,11 @@ To run the application successfully, you'll need to configure your API keys for 
 2. **Error Handling:**
    - The application automatically handles errors from failed API calls or irrelevant responses and will notify users accordingly with helpful error messages.
 
+## Project Screenshot
+Example output from the app:
+
+![Dashboard Screenshot](screenshots/)
+
 ---
 
 **Note:**  
