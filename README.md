@@ -75,12 +75,17 @@ To run the application successfully, you'll need to configure your API keys for 
 2. **Error Handling:**
    - The application automatically handles errors from failed API calls or irrelevant responses and will notify users accordingly with helpful error messages.
 
-## Project Screenshot
+# Project Screenshot
 Example output from the app:
 
 ![Dashboard Screenshot](screenshots/)
 
 ---
+# Project Walkthrough Video
+You can watch a walkthrough of the project here:
+
+[Watch the Project Video](https://drive.google.com/file/d/1-h-hKh-hSJ92oGE53W-hk57doJNcH7u-/view?usp=sharing)
+
 
 **Note:**  
 Ensure that you have the required API keys and the `.env` file set up properly before running the application.
