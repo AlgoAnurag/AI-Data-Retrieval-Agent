@@ -81,10 +81,6 @@ Example output from the app:
 ![Dashboard Screenshot](screenshots/)
 
 ---
-# Project Walkthrough Video
-You can watch a walkthrough of the project here:
-
-[Watch the Project Video](https://drive.google.com/file/d/1-h-hKh-hSJ92oGE53W-hk57doJNcH7u-/view?usp=sharing)
 
 
 **Note:**  
